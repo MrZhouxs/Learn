@@ -1,0 +1,5 @@
+# pdf2word
+pdfminer3k
+python-docx
+# word2pdf
+comtypes
