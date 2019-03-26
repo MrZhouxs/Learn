@@ -1,0 +1,2 @@
+先激活虚拟环境：
+pyinstaller -F -w start.py --noconsole
