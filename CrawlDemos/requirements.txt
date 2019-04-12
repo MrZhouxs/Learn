@@ -1,0 +1,44 @@
+# scrapy安装依赖
+scrapy==1.6.0
+Automat==0.7.0
+PyDispatcher==2.0.5
+PyHamcrest==1.9.0
+Twisted==18.9.0
+constantly==15.1.0
+cssselect==1.0.3
+hyperlink==18.0.0
+incremental==17.5.0
+parsel==1.5.1
+pyOpenSSL==19.0.0
+pyasn1==0.4.5
+pyasn1-modules==0.2.4
+queuelib==1.5.0
+service-identity==18.1.0
+w3lib==1.20.0
+zope.interface==4.6.0
+
+# requests-html
+requests-html==0.10.0
+appdirs==1.4.3
+beautifulsoup4==4.7.1
+bs4==0.0.1
+fake-useragent==0.1.11
+parse==1.11.1
+pyee==5.0.0
+pyppeteer==0.0.25
+pyquery==1.4.0
+soupsieve==1.9
+tqdm==4.31.1
+websockets==7.0
+requests==2.19.1
+
+# scrapy-redis
+scrapy-redis==0.6.8
+redis==3.2.1
+
+# pymysql
+pymysql
+
+# 验证码识别 PIL
+pillow
+pytesseract==0.2.6
